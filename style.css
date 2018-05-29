@@ -1,0 +1,9 @@
+* {padding:0;margin:0;background-color:#312;color:#fff;}
+
+html {width:100%;height:100%;}
+
+body {font-family:Arial, Helvetica, Sans-serif;font-size:14px;line-height:1.5;font-weight:400px;color:black;}
+
+#header {font-size:22px;text-align:center;padding:5px;margin:5px;border:dotted blue 1px;}
+
+.container {width:1000px;margin:0 auto;min-height:200px;border:solid red 1px;}
